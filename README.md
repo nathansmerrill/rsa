@@ -1,9 +1,9 @@
 # A Simple CLI RSA Script
 
 # Usage
-Generation:
+### Generation:
 `python rsa.py -g <key bit length>`
-Encryption:
+### Encryption:
 `python rsa.py -e <text to encrypt> <encryption key> <n>`
-Decryption:
+### Decryption:
 `python rsa.py -d <text to decrypt> <decryption key> <n>`
